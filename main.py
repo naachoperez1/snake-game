@@ -31,24 +31,4 @@ while seguir:
             seguir=False
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 screen.exitonclick()
